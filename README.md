@@ -8,3 +8,9 @@
 
 ### 1. Create django project
       django-admin startproject EMS_CRUD
+
+### 2. Create django app
+      python manage.py startapp CRUD
+
+### 3. Create super user
+      python manage.py createsuperuser
