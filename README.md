@@ -35,4 +35,8 @@
 ### Create Employee
 ![image](https://github.com/Nimisha-Mavar/Employee_Management_System/assets/112267753/26cafc64-df6c-4477-bed2-35b52ffea79a)
 
+### Edit Employee
+![image](https://github.com/Nimisha-Mavar/Employee_Management_System/assets/112267753/f56180b2-7bc0-45bf-a429-e9d11ac4fb20)
 
+### Delete Employee
+![image](https://github.com/Nimisha-Mavar/Employee_Management_System/assets/112267753/998ece44-75bb-4b77-bdc4-75d041ff6c53)
