@@ -1,5 +1,5 @@
 # Employee Management System
-      I making this project for clearing CRUD operations in django. Employee management system have Create employee, Update employee, Delete employee and Search employee features.
+I making this project for clearing CRUD operations in django. Employee management system have Create employee, Update employee, Delete employee and Search employee features.
 
 ## Tech Stack
 - Frontend : Html, Bootstrap-5
